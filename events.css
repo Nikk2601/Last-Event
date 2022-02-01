@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Sacramento');
-@import url('https://fonts.google.com/share?selection.family=Mochiy+Pop+P+One')
+@import url('https://fonts.google.com/share?selection.family=Mochiy+Pop+P+One');
 
 
 .events{
@@ -234,7 +234,7 @@
 
 .event-details-wrapper {
     width: 60%;
-    height: 60%;
+    height: 80%;
     border-radius: 25px;
     background: #1F1F1F;
     padding: 20px;
@@ -244,7 +244,7 @@
 
 .event-details-wrapper > div {
     width: 100%;
-    height: 70%;
+    height: 60%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -264,6 +264,7 @@
 .event-type {
     font-size: 3rem;
     color: #9A6D9A;
+    margin-top: 20px;
 }
 
 
@@ -538,7 +539,15 @@
 }
 
 .a-n2{ margin-left: 20px;
-    text-decoration: none; position: relative;  padding: 15px 30px; overflow: hidden; transition: 0.2s all;  color: #fff; text-transform: uppercase; letter-spacing: 4px;
+    text-decoration: none;
+     position: relative; 
+      padding: 15px 30px;
+       overflow: hidden; 
+       transition: 0.2s all; 
+        color: #fff;
+         text-transform: uppercase;
+          letter-spacing: 4px;
+          margin-top: 40px;
 }
 
 
